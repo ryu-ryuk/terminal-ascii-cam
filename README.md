@@ -2,7 +2,7 @@
 
 ⎔ real-time ascii webcam stream in your terminal  
 ⋗ uses soft gamma correction with catppuccin-inspired coloring  
-☰ preserves face contours without harsh contrast
+⎔ preserves face contours without harsh contrast
 
 ---
 
